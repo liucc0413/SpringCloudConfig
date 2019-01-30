@@ -1,0 +1,6 @@
+encrypt:
+  key-store:
+    location: classpath:/myuKeyStore.jks
+    alias: myusecurity
+    password: password
+    secret: password
